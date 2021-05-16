@@ -8,6 +8,7 @@ print(a / b)    # 4.0 float output
 print(a // b)   # 4 integer division, rounder down towards negative infinity
 print(a % b)     # remainder modulo 0
 
+
 print()
 
 for i in range(1,a//b):
