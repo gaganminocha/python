@@ -10,7 +10,6 @@ print(a % b)     # remainder modulo 0
 
 print()
 
-
 for i in range(1,a//b):
     print(i)
 
